@@ -1,10 +1,10 @@
 aliases:
   technical-oversight-committee:
-    - evankanderson
-    - grantr
-    - markusthoemmes
-    - mattmoor
-    - tcnghia
+  - evankanderson
+  - grantr
+  - markusthoemmes
+  - mattmoor
+  - tcnghia
     
   productivity-approvers:
   - chaodaiG
@@ -18,3 +18,20 @@ aliases:
   - peterfeifanchen
   - efiturri
   - nbarthwal
+
+  eventing-approvers:
+  - grantr
+  - Harwayne
+  - vaikas
+  - n3wscott
+  - matzew
+  - nachocano
+  - lionelvillard
+  - slinkydeveloper
+  
+  serving-approvers:
+  - dprotaso
+  - markusthoemmes
+  - mattmoor
+  - tcnghia
+  - vagababov
